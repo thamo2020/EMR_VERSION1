@@ -1,0 +1,57 @@
+body
+{
+   
+    padding: 0 ;
+    
+
+}
+form
+{
+    font-weight:bold;
+    padding-top: 100px;
+    color: rgb(1, 41, 19);
+
+    /*input:focus, textarea:focus, select:focus{
+        outline: none;
+    }  */  
+}
+.form-container
+{
+    border: aliceblue lightblue;
+    padding: 70px;
+    margin-top: 0%; 
+    
+    /*-webkit-box-shadow: 10px 17px 32px 31px rgba(0,0,0,0.8);
+-moz-box-shadow: 10px 17px 32px 31px rgba(0,0,0,0.8);
+box-shadow: 10px 17px 32px 31px rgba(0,0,0,0.8);*/
+}
+.container{
+
+margin-top: 20%;
+
+
+}
+h1{
+    margin-left: 80px;
+}
+p{
+    margin-left: 40px;
+}
+.vl{
+margin-top: 6%;
+    border-left: 6px solid rgb(12, 177, 141);
+  height: 500px;
+
+}
+.logo-img{
+    margin-left: 150px;
+    width: 200px;
+    height: 150px;
+
+}
+
+.button{
+
+    background-color: rgb(12, 177, 141);
+
+}
